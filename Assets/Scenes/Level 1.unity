@@ -120,6 +120,75 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &450429586
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 364528396735432028, guid: 0df1f2a76aff02144b143f8f91f5c789,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 364528396735432028, guid: 0df1f2a76aff02144b143f8f91f5c789,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 364528396735432028, guid: 0df1f2a76aff02144b143f8f91f5c789,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 364528396735432028, guid: 0df1f2a76aff02144b143f8f91f5c789,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 364528396735432028, guid: 0df1f2a76aff02144b143f8f91f5c789,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 364528396735432028, guid: 0df1f2a76aff02144b143f8f91f5c789,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 364528396735432028, guid: 0df1f2a76aff02144b143f8f91f5c789,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 364528396735432028, guid: 0df1f2a76aff02144b143f8f91f5c789,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 364528396735432028, guid: 0df1f2a76aff02144b143f8f91f5c789,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 364528396735432028, guid: 0df1f2a76aff02144b143f8f91f5c789,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 364528396735432028, guid: 0df1f2a76aff02144b143f8f91f5c789,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7172620201884338539, guid: 0df1f2a76aff02144b143f8f91f5c789,
+        type: 3}
+      propertyPath: m_Name
+      value: Launch Pad (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0df1f2a76aff02144b143f8f91f5c789, type: 3}
 --- !u!108 &705507994 stripped
 Light:
   m_CorrespondingSourceObject: {fileID: 5168519368878566141, guid: 101bbb1cfbacff84480347421f175589,
@@ -210,12 +279,12 @@ PrefabInstance:
     - target: {fileID: 3744455399828202674, guid: 598820f770a13ee49bd981b386b95e99,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.26
+      value: 10.16
       objectReference: {fileID: 0}
     - target: {fileID: 3744455399828202674, guid: 598820f770a13ee49bd981b386b95e99,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10.5
+      value: -19.7
       objectReference: {fileID: 0}
     - target: {fileID: 3744455399828202674, guid: 598820f770a13ee49bd981b386b95e99,
         type: 3}
